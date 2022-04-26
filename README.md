@@ -1,1 +1,1 @@
-# Unit4-01-HTML-GuessMyNumber
+[![GitHub's Super Linter](https://github.com/ICS2O-Programming-Rory-Mackay/Assign-02-Calculations/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/ICS2O-Programming-Rory-Mackay/Assign-02-Calculations/actions)
